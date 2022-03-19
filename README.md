@@ -1,2 +1,2 @@
 # JavaBootCamp
-JavaBootCamp homeworks and excerise 
+JavaBootCamp homeworks and exercises
